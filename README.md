@@ -1,2 +1,2 @@
 # Testing
-Project testing membuat repository pada praktikum
+Project testing membuat repository pada kelas praktikum
